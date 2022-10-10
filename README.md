@@ -1,7 +1,9 @@
 # BanRosQui-Testing-Aplicaciones
-Trabajo Practico obligatorio, Testing de Aplicaciones, UADE 2022
+ Testing de Aplicaciones: Trabajo Practico obligatorio, UADE 2022
 
-Nombre del equipo : BanRosQui
+Nombre del equipo :
+
+   BanRosQui
 
 Nombres de los integrantes:
   
