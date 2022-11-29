@@ -22,4 +22,4 @@ https://docs.google.com/document/d/1oKQ5ktKdlE7tWSwDsaHLttmxbkjHXvEGsI7qu585U0k/
 
 Hoja de calculo con los casos de prueba
 
-https://docs.google.com/spreadsheets/d/1OPE5kBZyo5nrx5LDn1GWotwJ19qNu3Ec/edit#gid=653752424
+https://docs.google.com/spreadsheets/d/1OPE5kBZyo5nrx5LDn1GWotwJ19qNu3Ec/edit#gid=891949905
